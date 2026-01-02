@@ -8,3 +8,4 @@ http://localhost/wp-rest-apis/wp-admin/
 
 Youtube link:- https://www.youtube.com/watch?v=ybATVLYWKq4&list=PLT9miexWCpPVpxg8iQ_YlsxgBEUjANEg-
 
+test apis:- https://www.postman.com/
