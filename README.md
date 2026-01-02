@@ -6,3 +6,5 @@ Try Logging In Again: Please go to your login page at http://localhost/ci4-wordp
 WordPress Admin Access: If you need to access the WordPress dashboard directly, use:
 http://localhost/wp-rest-apis/wp-admin/
 
+Youtube link:- https://www.youtube.com/watch?v=ybATVLYWKq4&list=PLT9miexWCpPVpxg8iQ_YlsxgBEUjANEg-
+
